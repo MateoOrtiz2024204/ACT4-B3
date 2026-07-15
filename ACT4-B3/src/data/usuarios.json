@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Eduardo",
+        "correo": "mortiz-2024204@gmail.com",
+        "password": "1234",
+        "edad": 20,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 2,
+        "nombre": "Ana",
+        "correo": "ana@yahoo.com",
+        "password": "abcd",
+        "edad": 22,
+        "rol": "USUARIO",
+        "estado": "INACTIVO"
+    },
+    {
+        "id": 23,
+        "nombre": "mateo",
+        "correo": "ma.be.or.le@gmail.com",
+        "password": "Mateo1509",
+        "edad": 16,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 2,
+        "nombre": "Mateo",
+        "correo": "ma.be.or.le@gmail.com",
+        "password": "Mateo1509",
+        "edad": 16,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    }
+]
