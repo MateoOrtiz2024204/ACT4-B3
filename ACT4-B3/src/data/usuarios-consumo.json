@@ -1,0 +1,40 @@
+{
+    "fechaConsulta": "2026-07-18T02:40:57.647Z",
+    "totalUsuarios": 4,
+    "tiempos": {
+        "peticionMs": 101.56,
+        "procesamientoMs": 0.07,
+        "guardadoMs": 3.86,
+        "totalMs": 105.49
+    },
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Luis",
+            "correo": "mortiz-2024204@gmail.com",
+            "rol": "USER",
+            "estado": "INCATIVO"
+        },
+        {
+            "id": 23,
+            "nombre": "mateo",
+            "correo": "ma.be.or.le@gmail.com",
+            "rol": "ADMIN",
+            "estado": "ACTIVO"
+        },
+        {
+            "id": 20,
+            "nombre": "Eduardo",
+            "correo": "mortiz-2024204@gmail.com",
+            "rol": "ADMIN",
+            "estado": "ACTIVO"
+        },
+        {
+            "id": 20,
+            "nombre": "Benjamin",
+            "correo": "mortiz-2024204@gmail.com",
+            "rol": "USER",
+            "estado": "ACTIVO"
+        }
+    ]
+}
